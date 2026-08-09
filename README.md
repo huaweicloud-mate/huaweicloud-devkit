@@ -167,3 +167,5 @@ Agent 技能是经过整理的指令和参考材料包，帮助 Agent 完成特�
 ## 许可证
 
 本项目基于 Apache-2.0 许可证发布。详见 [LICENSE](LICENSE)。
+
+<!-- test-governance: verify PR template + CODEOWNERS -->
