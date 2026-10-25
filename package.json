@@ -24,7 +24,7 @@
         "postinstall": "node -e \"console.log('\\nHuaweiCloud DevKit installed. Run: npx huaweicloud-devkit install\\n')\""
     },
     "devDependencies": {
-        "markdownlint-cli2": "^0.23.2"
+        "markdownlint-cli2": "^0.24.0"
     },
     "keywords": [
         "huaweicloud",
